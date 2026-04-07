@@ -1,0 +1,6 @@
+pandas>=1.5.0
+openpyxl>=3.0.0
+# Optional — install what you need:
+# xlrd>=2.0.0          # for reading .xls (Excel 97-2003)
+# dbfread>=2.0.7       # for reading .dbf files
+# rpy2>=3.5.0          # for reading R data (.RData, .rda, .rds) — requires R installed
